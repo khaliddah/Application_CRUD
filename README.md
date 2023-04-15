@@ -1,2 +1,2 @@
 # Application_CRUD
-C'est une simple application CRUD qui permet de créer, lire, mettre à jour et supprimer des données dans une base de données.
+C'est une simple application CRUD.L'objectif de cette application était de permettre aux utilisateurs de créer, lire, mettre à jour et supprimer des données dans une base de données J'ai utilisé le modèle MVC pour séparer les responsabilités de chaque composant de l'application. les vues ont été construites à l'aide de JSTL, Bootstrap et HTML.Les fonctionnalités clés de cette application comprennent la recherche d'ordinateurs par désignation, l'ajout de nouveaux ordinateurs à la base de données, la mise à jour des informations d'ordinateur et la suppression d'ordinateurs.
